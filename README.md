@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Dipin 👋</h1>
 
 <p align="center">
-  Full-Stack Developer based in Scarborough, ON 🇨🇦
+  Full-Stack Developer based in Scarborough, ON, CA
   <br />
   Building clean, functional web apps with modern tools
 </p>
@@ -49,15 +49,6 @@
 | 💼 **[Job Tracker](https://github.com/Dipin101/job-tracker)**         | React • Node.js • PostgreSQL • Redis • Docker • Claude AI | Full-stack job application system with AI-powered resume scoring, cover letter generation and a Playwright apply agent |
 | 🏋️ **[Habit Tracker](https://habit-tracker-three-ivory.vercel.app/)** | React • Node.js • MongoDB • Firebase Auth • Framer Motion | Habit, sleep and mood tracking platform with animated UI and protected REST API routes                                 |
 | 🍅 **[Pomodoro Timer](https://github.com/Dipin101/pomodoro)**         | React • TypeScript • Vitest • GitHub Actions              | Productivity timer with full Vitest test suite and CI/CD pipeline that blocks failed deployments                       |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipin101&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipin101&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
